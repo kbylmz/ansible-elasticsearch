@@ -1,0 +1,6 @@
+[Elasticsearch-Master-Nodes]
+172.26.83.178 ansible_ssh_pass=osboxes.org
+
+[Elasticsearch-Data-Nodes]
+172.26.81.106  ansible_ssh_pass=osboxes.org
+172.26.83.122  ansible_ssh_pass=osboxes.org
